@@ -1,0 +1,14 @@
+/home/nathan/.local/mongo-c-driver-1.17.0/cmake-build/mongo-cxx-driver/build/src/bsoncxx/third_party/_deps/core-install/share/cmake/core/core-config-version.cmake
+/home/nathan/.local/mongo-c-driver-1.17.0/cmake-build/mongo-cxx-driver/build/src/bsoncxx/third_party/_deps/core-install/share/cmake/core/core-config.cmake
+/home/nathan/.local/mongo-c-driver-1.17.0/cmake-build/mongo-cxx-driver/build/src/bsoncxx/third_party/_deps/core-install/include/core/any.hpp
+/home/nathan/.local/mongo-c-driver-1.17.0/cmake-build/mongo-cxx-driver/build/src/bsoncxx/third_party/_deps/core-install/include/core/type_traits.hpp
+/home/nathan/.local/mongo-c-driver-1.17.0/cmake-build/mongo-cxx-driver/build/src/bsoncxx/third_party/_deps/core-install/include/core/optional.hpp
+/home/nathan/.local/mongo-c-driver-1.17.0/cmake-build/mongo-cxx-driver/build/src/bsoncxx/third_party/_deps/core-install/include/core/algorithm.hpp
+/home/nathan/.local/mongo-c-driver-1.17.0/cmake-build/mongo-cxx-driver/build/src/bsoncxx/third_party/_deps/core-install/include/core/iterator.hpp
+/home/nathan/.local/mongo-c-driver-1.17.0/cmake-build/mongo-cxx-driver/build/src/bsoncxx/third_party/_deps/core-install/include/core/functional.hpp
+/home/nathan/.local/mongo-c-driver-1.17.0/cmake-build/mongo-cxx-driver/build/src/bsoncxx/third_party/_deps/core-install/include/core/variant.hpp
+/home/nathan/.local/mongo-c-driver-1.17.0/cmake-build/mongo-cxx-driver/build/src/bsoncxx/third_party/_deps/core-install/include/core/utility.hpp
+/home/nathan/.local/mongo-c-driver-1.17.0/cmake-build/mongo-cxx-driver/build/src/bsoncxx/third_party/_deps/core-install/include/core/numeric.hpp
+/home/nathan/.local/mongo-c-driver-1.17.0/cmake-build/mongo-cxx-driver/build/src/bsoncxx/third_party/_deps/core-install/include/core/memory.hpp
+/home/nathan/.local/mongo-c-driver-1.17.0/cmake-build/mongo-cxx-driver/build/src/bsoncxx/third_party/_deps/core-install/include/core/range.hpp
+/home/nathan/.local/mongo-c-driver-1.17.0/cmake-build/mongo-cxx-driver/build/src/bsoncxx/third_party/_deps/core-install/include/core/string.hpp

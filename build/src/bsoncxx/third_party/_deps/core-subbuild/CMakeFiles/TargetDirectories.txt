@@ -1,0 +1,3 @@
+/home/nathan/.local/mongo-c-driver-1.17.0/cmake-build/mongo-cxx-driver/build/src/bsoncxx/third_party/_deps/core-subbuild/CMakeFiles/ep_mnmlstc_core-populate.dir
+/home/nathan/.local/mongo-c-driver-1.17.0/cmake-build/mongo-cxx-driver/build/src/bsoncxx/third_party/_deps/core-subbuild/CMakeFiles/edit_cache.dir
+/home/nathan/.local/mongo-c-driver-1.17.0/cmake-build/mongo-cxx-driver/build/src/bsoncxx/third_party/_deps/core-subbuild/CMakeFiles/rebuild_cache.dir

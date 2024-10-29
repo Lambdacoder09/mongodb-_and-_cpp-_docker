@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG -shared -Wl,-soname,libCatch2Main.so.3.7.0 -o libCatch2Main.so.3.7.0 CMakeFiles/Catch2WithMain.dir/catch2/internal/catch_main.cpp.o  -Wl,-rpath,/home/nathan/.local/mongo-c-driver-1.17.0/cmake-build/mongo-cxx-driver/build/_deps/ep_catch2-build/src libCatch2.so.3.7.0 
